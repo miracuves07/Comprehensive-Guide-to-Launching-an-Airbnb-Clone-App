@@ -165,7 +165,7 @@ Customer Testimonials:
 
 Call to Action:
 
- [Ready to Start] (https://miracuves.com/contact/)? Contact Miracuves Solutions today to elevate your rental business with a cutting-edge Airbnb clone app.
+ [Ready to Start](https://miracuves.com/contact/)? Contact Miracuves Solutions today to elevate your rental business with a cutting-edge Airbnb clone app.
 
 Frequently Asked Questions
 Q. How can I start an Airbnb Clone?
